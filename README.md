@@ -1,4 +1,4 @@
-﻿﻿# Crafting Hotkey Mod
+# Crafting Hotkey Mod
 
 This mod for *The Long Dark* adds a hotkey for the crafting menu. Requires ModSettings.
 
